@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "e1fe45c5-65b2-44a3-9d7e-5a8c69259fe5",
+    "appType": "clockface",
+    "appDisplayName": "wutang-clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "wutang-clock"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}

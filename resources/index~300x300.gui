@@ -1,0 +1,4 @@
+<svg class="background">
+  <image href="background-300-300.png" />
+  <text id="myLabel" />
+</svg>
